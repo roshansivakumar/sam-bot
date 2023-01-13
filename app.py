@@ -94,7 +94,8 @@ if __name__ == "__main__":
     # Set environment variables for your credentials
     # Read more at http://twil.io/secure
     account_sid = "AC0fad4f27553c4f7abc30b1aad8e059e0"
-    auth_token = "a3d3d8bda1ab11d1c40263b1f4cd9162"
+    # auth_token = "a3d3d8bda1ab11d1c40263b1f4cd9162"
+    auth_token = "c2a7ccacc2b9957a39ff77da520237c3"
 
     # texts defined
 
