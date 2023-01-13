@@ -1,1 +1,1 @@
-web: gunicorn app:sendsms.py
+web: python sendsms.py
